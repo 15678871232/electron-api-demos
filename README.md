@@ -25,7 +25,8 @@ You can [download the latest release](https://github.com/electron/electron-api-d
 ## Building
 
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
-
+[Mapping between the Electron and Node versions  ](https://www.npmjs.com/package/electron-releases)
+The current version of Electron V11.5.0 corresponds to node V87.0.4280.141
 ```bash
 $ git clone https://github.com/electron/electron-api-demos
 $ cd electron-api-demos
